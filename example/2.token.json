@@ -1,0 +1,57 @@
+{
+  "specVersion": "0.1",
+  "type": "collectible",
+  "name": "EUF 002",
+  "subName": "EUF",
+  "description": "Example #002",
+  "author": "Rami James",
+  "defaultLocale": "en-US",
+  "media": {
+    "product": {
+      "contentType": "image/png",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7"
+      },
+      "uris": [
+        "https://developers.ultra.io/images/token-factories/example/EUF/d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7.png"
+      ]
+    },
+    "square": {
+      "contentType": "image/png",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f"
+      },
+      "uris": [
+        "https://developers.ultra.io/images/token-factories/example/EUF/f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f.png"
+      ]
+    },
+    "hero": {
+      "contentType": "image/png",
+      "integrity": {
+        "type": "SHA256",
+        "hash": "daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a"
+      },
+      "uris": [
+        "https://developers.ultra.io/images/token-factories/example/EUF/daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a.png"
+      ]
+    },
+    "gallery": [
+      {
+        "contentType": "image/png",
+        "integrity": {
+          "type": "SHA256",
+          "hash": "37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f"
+        },
+        "uris": [
+          "https://developers.ultra.io/images/token-factories/example/EUF/37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f.png"
+        ]
+      }
+    ]
+  },
+  "attributes": {
+    "background color": "green",
+    "health": "232"
+  }
+}

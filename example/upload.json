@@ -1,0 +1,74 @@
+{
+  "collectionName": "EUF",
+  "factory": {
+    "hash": "7e2f92391a81c50e169d8e4986507875d0541d13324139c93e5754daa8b8a304",
+    "url": "https://developers.ultra.io/images/token-factories/example/EUF/7e2f92391a81c50e169d8e4986507875d0541d13324139c93e5754daa8b8a304.json"
+  },
+  "defaultToken": {
+    "hash": "36db6a7fdba6c9e5c08378907eca2ebf8c9fdadc9cd9d0b9ee35e371991efadb",
+    "url": "https://developers.ultra.io/images/token-factories/example/EUF/{serial_number}.json"
+  },
+  "tokens": [
+    {
+      "serialNumber": "1",
+      "hash": "df8250813955177278ebbf8dd8f5b2b360c8e655298e407b699dc42c3491b42c",
+      "url": "https://developers.ultra.io/images/token-factories/example/EUF/1.json"
+    },
+    {
+      "serialNumber": "2",
+      "hash": "6eb780a05e71cc20ad6f6d10a028df0bb5e2986ece1d21cb7146ca6bf4b49baa",
+      "url": "https://developers.ultra.io/images/token-factories/example/EUF/2.json"
+    },
+    {
+      "serialNumber": "3",
+      "hash": "21644b06509cd94710188be716e3687fc25c97efc8c00c10846e6994d07d3db4",
+      "url": "https://developers.ultra.io/images/token-factories/example/EUF/3.json"
+    },
+    {
+      "serialNumber": "4",
+      "hash": "9d63937cda5f0540d09a06641651fd64f571bdec73639c1fb60c1f44d6b504d6",
+      "url": "https://developers.ultra.io/images/token-factories/example/EUF/4.json"
+    },
+    {
+      "serialNumber": "5",
+      "hash": "9798a68fc41e88f7c8a85d0959874e29523bcf5b8a4b6b48e95a2e2c96068dc8",
+      "url": "https://developers.ultra.io/images/token-factories/example/EUF/5.json"
+    }
+  ],
+  "media": {
+    "factory/uniq.png": "https://developers.ultra.io/images/token-factories/example/EUF/d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7.png",
+    "factory/square.png": "https://developers.ultra.io/images/token-factories/example/EUF/f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f.png",
+    "factory/hero.png": "https://developers.ultra.io/images/token-factories/example/EUF/daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a.png",
+    "factory/gallery/media-01.png": "https://developers.ultra.io/images/token-factories/example/EUF/37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f.png",
+    "tokens/000/uniq.png": "https://developers.ultra.io/images/token-factories/example/EUF/d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7.png",
+    "tokens/000/square.png": "https://developers.ultra.io/images/token-factories/example/EUF/f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f.png",
+    "tokens/000/hero.png": "https://developers.ultra.io/images/token-factories/example/EUF/daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a.png",
+    "tokens/000/gallery/media-01.png": "https://developers.ultra.io/images/token-factories/example/EUF/37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f.png",
+    "tokens/001/uniq.png": "https://developers.ultra.io/images/token-factories/example/EUF/d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7.png",
+    "tokens/001/square.png": "https://developers.ultra.io/images/token-factories/example/EUF/f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f.png",
+    "tokens/001/hero.png": "https://developers.ultra.io/images/token-factories/example/EUF/daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a.png",
+    "tokens/001/gallery/media-01.png": "https://developers.ultra.io/images/token-factories/example/EUF/37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f.png",
+    "tokens/002/uniq.png": "https://developers.ultra.io/images/token-factories/example/EUF/d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7.png",
+    "tokens/002/square.png": "https://developers.ultra.io/images/token-factories/example/EUF/f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f.png",
+    "tokens/002/hero.png": "https://developers.ultra.io/images/token-factories/example/EUF/daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a.png",
+    "tokens/002/gallery/media-01.png": "https://developers.ultra.io/images/token-factories/example/EUF/37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f.png",
+    "tokens/003/uniq.png": "https://developers.ultra.io/images/token-factories/example/EUF/d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7.png",
+    "tokens/003/square.png": "https://developers.ultra.io/images/token-factories/example/EUF/f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f.png",
+    "tokens/003/hero.png": "https://developers.ultra.io/images/token-factories/example/EUF/daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a.png",
+    "tokens/003/gallery/media-01.png": "https://developers.ultra.io/images/token-factories/example/EUF/37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f.png",
+    "tokens/004/uniq.png": "https://developers.ultra.io/images/token-factories/example/EUF/d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7.png",
+    "tokens/004/square.png": "https://developers.ultra.io/images/token-factories/example/EUF/f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f.png",
+    "tokens/004/hero.png": "https://developers.ultra.io/images/token-factories/example/EUF/daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a.png",
+    "tokens/004/gallery/media-01.png": "https://developers.ultra.io/images/token-factories/example/EUF/37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f.png",
+    "tokens/005/uniq.png": "https://developers.ultra.io/images/token-factories/example/EUF/d2dd273934877df24993786f3d2f73725b023e73486bb7adbe6d5b64ee13d9d7.png",
+    "tokens/005/square.png": "https://developers.ultra.io/images/token-factories/example/EUF/f96cab6b104370224db56e88d3dfecf5301a79edc8cbb168c99c50c19746b41f.png",
+    "tokens/005/hero.png": "https://developers.ultra.io/images/token-factories/example/EUF/daedee4ec4a509c1899cd336ca19876243e8695d6cdbd7e598411b91cdf3229a.png",
+    "tokens/005/gallery/media-01.png": "https://developers.ultra.io/images/token-factories/example/EUF/37cf33adf6efb1215982a2e159d603993933249eb469eb5ba4d6833c0272f05f.png"
+  },
+  "environment": {
+    "env": "custom",
+    "tokenUriTemplate": "{serial_number}",
+    "url": "https://developers.ultra.io/images/token-factories/example",
+    "toolVersion": "1.4.1"
+  }
+}
